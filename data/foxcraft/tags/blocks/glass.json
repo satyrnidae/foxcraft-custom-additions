@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:glass",
+    "#foxcraft:stained_glass"
+  ]
+}

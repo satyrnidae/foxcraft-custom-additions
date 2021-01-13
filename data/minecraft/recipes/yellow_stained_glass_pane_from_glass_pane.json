@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stained_glass_pane",
+  "ingredients": [
+    {
+      "tag": "foxcraft:glass_panes"
+    },
+    {
+      "tag": "foxcraft:glass_panes"
+    },
+    {
+      "tag": "foxcraft:glass_panes"
+    },
+    {
+      "tag": "foxcraft:glass_panes"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "tag": "foxcraft:glass_panes"
+    },
+    {
+      "tag": "foxcraft:glass_panes"
+    },
+    {
+      "tag": "foxcraft:glass_panes"
+    },
+    {
+      "tag": "foxcraft:glass_panes"
+    }
+  ],
+  "result": {
+    "item": "minecraft:yellow_stained_glass_pane",
+    "count": 8
+  }
+}
