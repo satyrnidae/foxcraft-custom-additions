@@ -3,20 +3,20 @@
   "pattern": [
     "nTn",
     "PEP",
-    "PnP"
+    "PPP"
   ],
   "key": {
     "n": {
       "item": "minecraft:netherite_ingot"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
     },
     "T": {
       "item": "minecraft:tripwire_hook"
     },
     "P": {
       "item": "minecraft:phantom_membrane"
-    },
-    "E": {
-      "item": "minecraft:ender_eye"
     }
   },
   "result": {
