@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crating_shapeless",
+  "type": "minecraft:crafting_shapeless",
   "group": "mushroom_block",
   "ingredients": [
     {
