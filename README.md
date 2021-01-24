@@ -4,7 +4,7 @@ A simple data pack which adds several recipes and additional functionality to th
 
 ## New crafting recipes
 
-This data pack adds an assortment of recipes for previously uncraftable items. As of v3.1.0, recipes for the following items have been added:
+This data pack adds an assortment of recipes for previously uncraftable items. As of v3.1.1, recipes for the following items have been added:
 
 - Bells
 - Chainmail armor
@@ -15,6 +15,8 @@ This data pack adds an assortment of recipes for previously uncraftable items. A
 - Tridents
 - Warped wart from warped root
 - Warped root from warped wart
+- Red and brown mushroom blocks from red or brown mushrooms or mushroom stems
+- Mushroom stem from red or brown mushroom blocks
 
 ## Actually useful smithing
 
@@ -66,3 +68,5 @@ Added recipes for uncrafting some blocks:
 - Quartz block to nether quartz
 - Glowstone block to glowstone dust
 - Nether wart block to nether wart
+- Red and brown mushroom blocks to red or brown mushrooms
+- Clay to clay balls
