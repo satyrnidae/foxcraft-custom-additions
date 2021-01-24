@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crating_shapeless",
+  "group": "mushroom_block",
+  "ingredients": [
+    {
+      "item": "minecraft:mushroom_stem"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_mushroom_block",
+    "count": 1
+  }
+}
