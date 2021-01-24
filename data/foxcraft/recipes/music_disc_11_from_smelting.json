@@ -1,5 +1,6 @@
 {
   "type": "minecraft:smelting",
+  "group": "music_disc",
   "ingredient": {
     "tag": "minecraft:music_discs"
   },

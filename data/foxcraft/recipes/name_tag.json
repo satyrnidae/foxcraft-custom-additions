@@ -1,5 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
+  "group": "name_tag",
   "pattern": [
     " #",
     "P "
@@ -15,6 +16,5 @@
   "result": {
     "item": "minecraft:name_tag",
     "count": 1
-  },
-  "group": "name_tag"
+  }
 }

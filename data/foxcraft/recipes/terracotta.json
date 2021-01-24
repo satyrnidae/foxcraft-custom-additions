@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "glass",
+  "group": "terracotta",
   "ingredients": [
     {
       "tag": "foxcraft:stained_terracotta"
