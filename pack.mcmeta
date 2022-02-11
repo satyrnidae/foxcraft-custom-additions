@@ -1,7 +1,12 @@
 {
   "pack": {
-    "pack_format": 6,
-    "description": "Foxcraft Custom Additions v3.1.1"
+    "pack_format": 8,
+    "description": "Foxcraft Custom Additions"
   },
-  "__comment": "Generated with TheDestruc7i0n's crafting generator: https://crafting.thedestruc7i0n.ca"
+  "meta": {
+    "author": "Isabel Maskrey (saturniidae)",
+    "website": "https://satyrn.dev",
+    "version": "4.0.0",
+    "baseArchiveName": "foxcraft-custom-additions"
+  }
 }

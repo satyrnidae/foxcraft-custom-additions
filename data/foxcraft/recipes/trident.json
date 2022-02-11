@@ -8,10 +8,10 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:prismarine_crystals"
+      "item": "minecraft:prismarine_shard"
     },
     "P": {
-      "item": "minecraft:prismarine_shard"
+      "item": "minecraft:stick"
     }
   },
   "result": {

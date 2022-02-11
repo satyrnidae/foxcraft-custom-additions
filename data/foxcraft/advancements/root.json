@@ -1,0 +1,29 @@
+{
+  "display": {
+    "frame": "challenge",
+    "icon": {
+      "item": "minecraft:bell"
+    },
+    "title": [
+      {
+        "text": "Foxcraft Custom Additions",
+        "color": "gold"
+      }
+    ],
+    "description": [
+      {
+        "text": "QOL changes and custom recipes for the Foxcraft server!",
+        "color": "light_purple"
+      }
+    ],
+    "announce_to_chat": false,
+    "show_toast": true,
+    "hidden": false
+  },
+  "parent": "global:satyrnidae/author",
+  "criteria": {
+    "adv_criteria": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
