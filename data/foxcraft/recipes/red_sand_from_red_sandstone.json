@@ -2,12 +2,12 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:snow_block"
+      "item": "minecraft:red_sandstone"
     }
   ],
   "result": {
-    "item": "minecraft:snowball",
+    "item": "minecraft:red_sand",
     "count": 4
   },
-  "group": "snowball"
+  "group": "red_sand"
 }

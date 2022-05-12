@@ -3,7 +3,7 @@
   "group": "totem_of_undying",
   "pattern": [
     "#G#",
-    "nEn",
+    "GEG",
     " G "
   ],
   "key": {
@@ -11,10 +11,7 @@
       "item": "minecraft:emerald"
     },
     "G": {
-      "item": "minecraft:gold_block"
-    },
-    "n": {
-      "item": "minecraft:netherite_ingot"
+      "item": "minecraft:gold_ingot"
     },
     "E": {
       "item": "minecraft:end_crystal"

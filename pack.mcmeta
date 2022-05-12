@@ -1,12 +1,33 @@
 {
   "pack": {
-    "pack_format": 8,
+    "pack_format": 9,
     "description": "Foxcraft Custom Additions"
   },
   "meta": {
     "author": "Isabel Maskrey (saturniidae)",
     "website": "https://satyrn.dev",
-    "version": "4.0.0",
-    "baseArchiveName": "foxcraft-custom-additions"
+    "version": "4.0.7",
+    "baseArchiveName": "foxcraft-custom-additions",
+    "changelog": {
+      "4.0.7": [
+        "Add prismarine block breaking-down"
+      ],
+      "4.0.6": [
+        "Rebalance Totem of Undying recipe",
+        "Rebalance Elytra recipe"
+      ],
+      "4.0.5": [
+        "Fixed infinite snow glitch"
+      ],
+      "4.0.4": [
+        "Added red sand from sand + redstone",
+        "Added missing recipe achievements",
+        "Upgrade to pack format 9"
+      ],
+      "4.0.3": [
+        "Added red sand from red sandstone",
+        "Made raw block to ingot block cook time consistent between furnace and blast furnace"
+      ]
+    }
   }
 }

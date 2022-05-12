@@ -2,12 +2,12 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:snow_block"
+      "item": "minecraft:prismarine"
     }
   ],
   "result": {
-    "item": "minecraft:snowball",
+    "item": "minecraft:prismarine_shard",
     "count": 4
   },
-  "group": "snowball"
+  "group": "prismarine_shard"
 }
